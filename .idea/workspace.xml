@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="133a0e76-b681-49c5-b8d9-6696a4203b0d" name="Default Changelist" comment="">
+    <list default="true" id="133a0e76-b681-49c5-b8d9-6696a4203b0d" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/venv/Filemanage/Datamanage1/e-mail_table.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Filemanage/Datamanage1/Datamanage1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Filemanage/Datamanage1/Datamanage1.py" afterDir="false" />
     </list>
@@ -85,6 +86,21 @@
       <option name="presentableId" value="Default" />
       <updated>1593351965840</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1593535227971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593535227971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1593593270693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593593270693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +115,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="484" y="14" key="#Datamanage1" timestamp="1593352014923">
       <screen x="0" y="0" width="1536" height="834" />
@@ -108,37 +128,37 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="267" y="217" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593521207398" />
-    <state width="936" height="212" key="GridCell.Tab.0.bottom" timestamp="1593535100770">
+    <state width="936" height="212" key="GridCell.Tab.0.bottom" timestamp="1593594891211">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593535100770" />
-    <state width="936" height="212" key="GridCell.Tab.0.center" timestamp="1593535100770">
+    <state width="936" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
+    <state width="936" height="212" key="GridCell.Tab.0.center" timestamp="1593594891211">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593535100770" />
-    <state width="936" height="212" key="GridCell.Tab.0.left" timestamp="1593535100770">
+    <state width="936" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
+    <state width="936" height="212" key="GridCell.Tab.0.left" timestamp="1593594891211">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593535100770" />
-    <state width="936" height="212" key="GridCell.Tab.0.right" timestamp="1593535100770">
+    <state width="936" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
+    <state width="936" height="212" key="GridCell.Tab.0.right" timestamp="1593594891211">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593535100770" />
-    <state width="936" height="247" key="GridCell.Tab.1.bottom" timestamp="1593363971198">
+    <state width="936" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
+    <state width="936" height="247" key="GridCell.Tab.1.bottom" timestamp="1593591672181">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593363971198" />
-    <state width="936" height="247" key="GridCell.Tab.1.center" timestamp="1593363971197">
+    <state width="936" height="247" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
+    <state width="936" height="247" key="GridCell.Tab.1.center" timestamp="1593591672181">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593363971197" />
-    <state width="936" height="247" key="GridCell.Tab.1.left" timestamp="1593363971197">
+    <state width="936" height="247" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
+    <state width="936" height="247" key="GridCell.Tab.1.left" timestamp="1593591672181">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593363971197" />
-    <state width="936" height="247" key="GridCell.Tab.1.right" timestamp="1593363971198">
+    <state width="936" height="247" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
+    <state width="936" height="247" key="GridCell.Tab.1.right" timestamp="1593591672181">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593363971198" />
+    <state width="936" height="247" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
   </component>
 </project>

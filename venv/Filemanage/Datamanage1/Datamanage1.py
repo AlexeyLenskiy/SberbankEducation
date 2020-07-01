@@ -1,3 +1,8 @@
+#Programm open txt.file with personal data table
+#create e-mail adress for each person
+#add e-mails in empty 1-st column in table
+#write new data table in file "e-mail_table.txt"
+
 #open data file
 openfile = open('task_file.txt')
 
@@ -60,5 +65,10 @@ new_data = data_spec + '\n' + new_data
 print(new_data)
 
 openfile.close()
+
+create_new_table_file = open('e-mail_table.txt', 'w')
+create_new_table_file.write(str(new_data))
+create_new_table_file.close()
+
 
 
