@@ -20,14 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="133a0e76-b681-49c5-b8d9-6696a4203b0d" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/venv/Filemanage/Datamanage1/e-mail_table.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Random/PassGen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Random/PassList.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Filemanage/Datamanage1/Datamanage1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Filemanage/Datamanage1/Datamanage1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,14 +47,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Filemanage/Datamanage1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Filemanage/Datamanage1/Datamanage1.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Alexey\PycharmProjects\SberbankEducation\venv\Filemanage\Datamanage1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.PassGen">
     <configuration name="Datamanage1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SberbankEducation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,8 +76,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PassGen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SberbankEducation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Random" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Random/PassGen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Str3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SberbankEducation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Str" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Str/Str3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PassGen" />
+        <item itemvalue="Python.Str3" />
         <item itemvalue="Python.Datamanage1" />
       </list>
     </recent_temporary>
@@ -124,41 +175,41 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="484" y="14" key="#Datamanage1/0.0.1536.834@0.0.1536.834" timestamp="1593352014923" />
-    <state x="267" y="217" key="FileChooserDialogImpl" timestamp="1593521207398">
+    <state x="267" y="217" key="FileChooserDialogImpl" timestamp="1593962563870">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="267" y="217" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593521207398" />
-    <state width="936" height="212" key="GridCell.Tab.0.bottom" timestamp="1593594891211">
+    <state x="267" y="217" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593962563870" />
+    <state width="936" height="212" key="GridCell.Tab.0.bottom" timestamp="1593964507075">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
-    <state width="936" height="212" key="GridCell.Tab.0.center" timestamp="1593594891211">
+    <state width="936" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593964507075" />
+    <state width="936" height="212" key="GridCell.Tab.0.center" timestamp="1593964507075">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
-    <state width="936" height="212" key="GridCell.Tab.0.left" timestamp="1593594891211">
+    <state width="936" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593964507075" />
+    <state width="936" height="212" key="GridCell.Tab.0.left" timestamp="1593964507075">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
-    <state width="936" height="212" key="GridCell.Tab.0.right" timestamp="1593594891211">
+    <state width="936" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593964507075" />
+    <state width="936" height="212" key="GridCell.Tab.0.right" timestamp="1593964507075">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593594891211" />
-    <state width="936" height="247" key="GridCell.Tab.1.bottom" timestamp="1593591672181">
+    <state width="936" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593964507075" />
+    <state width="936" height="247" key="GridCell.Tab.1.bottom" timestamp="1593955506480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
-    <state width="936" height="247" key="GridCell.Tab.1.center" timestamp="1593591672181">
+    <state width="936" height="247" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593955506480" />
+    <state width="936" height="247" key="GridCell.Tab.1.center" timestamp="1593955506480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
-    <state width="936" height="247" key="GridCell.Tab.1.left" timestamp="1593591672181">
+    <state width="936" height="247" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593955506480" />
+    <state width="936" height="247" key="GridCell.Tab.1.left" timestamp="1593955506480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
-    <state width="936" height="247" key="GridCell.Tab.1.right" timestamp="1593591672181">
+    <state width="936" height="247" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593955506480" />
+    <state width="936" height="247" key="GridCell.Tab.1.right" timestamp="1593955506480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="936" height="247" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593591672181" />
+    <state width="936" height="247" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593955506480" />
   </component>
 </project>
